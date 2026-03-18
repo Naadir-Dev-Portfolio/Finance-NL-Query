@@ -1,0 +1,15 @@
+{
+  "section": "ai",
+  "category": "generativeai",
+  "n": 3,
+  "title": "Finance NL Query",
+  "desc": "Natural language interface for financial data — ask plain-English questions and get structured, queryable answers without writing code.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Finance-NL-Query/blob/main/main.py",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Finance-NL-Query/blob/main/README.md",
+  "tags": [
+    "ai",
+    "nlp",
+    "finance",
+    "python"
+  ]
+}
